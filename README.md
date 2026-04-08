@@ -18,4 +18,4 @@ YouTube и Браузер на экране вашего авто.
 Без Root-прав.
 Полная поддержка Android 14, 15 и 16.
 
-[![Смотреть видео](https://img.youtube.com/vi/V78jO_jRrz4/0.jpg)](https://www.youtube.com/watch?v=V78jO_jRrz4)
+[![Смотреть видео](https://img.youtube.com/vi/V78jO_jRrz4/maxresdefault.jpg)](https://www.youtube.com/watch?v=V78jO_jRrz4)
